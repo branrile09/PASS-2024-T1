@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("this is our first project!!! WOOO!!!!");
+
+
+
         }
 
 
