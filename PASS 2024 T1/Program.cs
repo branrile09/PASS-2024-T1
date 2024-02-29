@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
@@ -40,7 +42,7 @@
             //prob does not count as variable? static void?
             double newNum = Math.Pow(x, 2);
 
-            
+
 
             short e = 2;
 
@@ -79,8 +81,10 @@
         static double outputNumbers(double i, double j)
         {
 
-            return i + j;      
-        
+            //rando codo
+
+            return i + j;
+
         }
 
 
@@ -88,4 +92,5 @@
 
 
     }
+
 }
