@@ -66,14 +66,9 @@
 
             bool happy = true;
 
-
-
-
-
-
-
-
             //self documenting code example
+
+
 
         }
 
